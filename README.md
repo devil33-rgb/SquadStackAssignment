@@ -1,0 +1,2 @@
+# SquadStackAssignment
+Parking lot Management
